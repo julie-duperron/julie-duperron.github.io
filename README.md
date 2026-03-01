@@ -50,7 +50,7 @@ Santé et Biologie</td>
     </tr>
     <tr style="border-bottom: 1px solid #eee;">
       <td style="padding: 12px;"><b>Enseignements transversaux </b></td>
-      <td style="padding: 12px;"><b>224</b> heures</td>
+      <td style="padding: 12px;"><b>324</b> heures</td>
       <td style="padding: 12px;">Anglais, Ukrainien, Sport</td>
     </tr>
     <tr style="background-color: #fdfdfe; font-weight: bold;">
