@@ -40,7 +40,7 @@ Je fais partie de la toute première promotion de la formation et la première �
     <tr style="border-bottom: 1px solid #eee;">
       <td style="padding: 12px;"><b>Projets de synthèse</b></td>
       <td style="padding: 12px;"><b>202</b> heures</td>
-      <td style="padding: 12px;">Modélisation avancée en Sciences des Données, Traitement de Données réelles, Innovation sociale collaborative.</td>
+      <td style="padding: 12px;">Modélisation avancée en Sciences des Données, Traitement de Données réelles, Innovation sociale collaborative</td>
     </tr>
     <tr style="border-bottom: 1px solid #eee;">
       <td style="padding: 12px;"><b>Domaines applicatifs</b></td>
