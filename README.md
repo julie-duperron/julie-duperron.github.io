@@ -19,8 +19,8 @@ Je fais partie de la toute première promotion de la formation, et donc de la pr
   <tbody>
      <tr style="border-bottom: 1px solid #eee;">
       <td style="padding: 12px;"><b>Matières</b></td>
-      <td style="padding: 12px;">Volume horaire </td>
-      <td style="padding: 12px;">Concepts clés </td>
+      <td style="padding: 12px;"><b>Volume horaire </b></td>
+      <td style="padding: 12px;"><b>Concepts clés </b></td>
     </tr>
     <tr style="border-bottom: 1px solid #eee;">
       <td style="padding: 12px;"><b>Mathématiques</b></td>
@@ -40,7 +40,7 @@ Je fais partie de la toute première promotion de la formation, et donc de la pr
     <tr style="background-color: #fdfdfe; font-weight: bold;">
       <td style="padding: 12px;">Total Cycle</td>
       <td style="padding: 12px;"><b>2574</b> heures</td>
-      <td style="padding: 12px;">Grade de Licence — 180 ECTS</td>
+      <td style="padding: 12px;">Grade de Licence - 180 ECTS</td>
     </tr>
   </tbody>
 </table>
