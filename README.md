@@ -30,7 +30,7 @@ Je fais partie de la toute première promotion de la formation et la première �
     <tr style="border-bottom: 1px solid #eee;">
       <td style="padding: 12px;"><b>Informatique</b></td>
       <td style="padding: 12px;"><b>384</b> heures</td>
-      <td style="padding: 12px;">Algorithmique, Structures de données, Programmation (Python, R, SQL), Interprétation des Langages, Bases de données </td>
+      <td style="padding: 12px;">Algorithmique, Structures de Données, Programmation (Python, R, SQL), Interprétation des Langages, Bases de Données </td>
     </tr>
     <tr style="border-bottom: 1px solid #eee;">
       <td style="padding: 12px;"><b>Sciences des données</b></td>
@@ -40,13 +40,13 @@ Je fais partie de la toute première promotion de la formation et la première �
     <tr style="border-bottom: 1px solid #eee;">
       <td style="padding: 12px;"><b>Projets de synthèse</b></td>
       <td style="padding: 12px;"><b>202</b> heures</td>
-      <td style="padding: 12px;">Modélisation avancée en sciences des données, traitement de données réelles, innovation sociale collaborative.</td>
+      <td style="padding: 12px;">Modélisation avancée en Sciences des Données, Traitement de Données réelles, Innovation sociale collaborative.</td>
     </tr>
     <tr style="border-bottom: 1px solid #eee;">
       <td style="padding: 12px;"><b>Domaines applicatifs</b></td>
       <td style="padding: 12px;"><b>492</b> heures</td>
-      <td style="padding: 12px;">Économie, Sociologie théorique, quantitative et computationnelle, Éthique des données, Enjeux sociétaux en
-Santé et Biologie .</td>
+      <td style="padding: 12px;">Économie, Sociologie théorique, quantitative et computationnelle, Éthique des Données, Enjeux sociétaux en
+Santé et Biologie</td>
     </tr>
     <tr style="background-color: #fdfdfe; font-weight: bold;">
       <td style="padding: 12px;">Total Cycle</td>
