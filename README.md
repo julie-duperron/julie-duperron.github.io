@@ -4,7 +4,7 @@
   <img src="./Fichiers/logos_partenaires.png" alt="Logos Partenaires CPES" width="600">
 </p>
 
-Je fais partie de la toute première promotion de la formation, et donc de la première à candidater en master. Je mets donc ce site à votre disposition afin de faciliter l'examen de ma candidature. Veuillez y trouver les informations relatives à ma formation, afin d'en savoir plus sur celle-ci. 
+Je fais partie de la toute première promotion de la formation et la première à candidater en master. J'ai donc créé ce site afin de faciliter l'examen de ma candidature. Veuillez y trouver les informations relatives à ma formation, afin d'en savoir plus sur celle-ci. 
 
 <h3>Programme du CPES Sciences des Données, Société et Santé de Paris-Saclay</h3>
 
@@ -36,6 +36,17 @@ Je fais partie de la toute première promotion de la formation, et donc de la pr
       <td style="padding: 12px;"><b>Sciences des données</b></td>
       <td style="padding: 12px;"><b>458</b> heures</td>
       <td style="padding: 12px;">Statistiques descriptives et inférentielles, Modélisation et Apprentissage statistique, Théorie de l'Information </td>
+    </tr>
+    <tr style="border-bottom: 1px solid #eee;">
+      <td style="padding: 12px;"><b>Projets de synthèse</b></td>
+      <td style="padding: 12px;"><b>202</b> heures</td>
+      <td style="padding: 12px;">Modélisation avancée en sciences des données, traitement de données réelles, innovation sociale collaborative.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #eee;">
+      <td style="padding: 12px;"><b>Domaines applicatifs</b></td>
+      <td style="padding: 12px;"><b>492</b> heures</td>
+      <td style="padding: 12px;">Économie, Sociologie théorique, quantitative et computationnelle, Éthique des données, Enjeux sociétaux en
+Santé et Biologie .</td>
     </tr>
     <tr style="background-color: #fdfdfe; font-weight: bold;">
       <td style="padding: 12px;">Total Cycle</td>
